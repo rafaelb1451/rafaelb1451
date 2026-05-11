@@ -1,12 +1,9 @@
 # Olá, eu sou o Rafael! 👋  
 
 ### 🌱 Atualmente estou aprendendo...  
-- JavaScript/TypeScript 🚀
-- html/css
-- C   
-### 💞️ Estou procurando colaborar em...  
-- Projetos de frontend/backend   
-
+- Java 🚀
+- C
+  
 ### 📫 Como me encontrar...  
 - LinkedIn: [Seu perfil](https://linkedin.com/in/seuperfil)  
 - Email: rfb3204@gmail.com

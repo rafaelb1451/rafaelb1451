@@ -1,7 +1,8 @@
 # Olá, eu sou o Rafael! 👋  
 
-### 🌱 Atualmente estou aprendendo...  
-- flutter
+### 🌱 Atualmente estou aprendendo...
+- Java
+- Dart
 - C
   
 ### 📫 Como me encontrar...  

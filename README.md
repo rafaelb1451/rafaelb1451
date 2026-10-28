@@ -1,10 +1,16 @@
-# Olá, eu sou o Rafael! 👋  
+👋 Olá! Eu sou Rafael.
+🎓 Sobre mim
 
-### 🌱 Atualmente estou aprendendo...
-- Java
-- Dart
-- C
-  
+Sou estudante de Engenharia de Software, apaixonado por tecnologia e desenvolvimento de soluções. Estou em constante aprendizado, explorando diferentes linguagens e boas práticas de programação para me tornar um desenvolvedor completo.
+
+    🎯 Objetivo: Crescer como desenvolvedor e contribuir com projetos open source
+
+    📚 Atualmente estudando: Java, C e Dart
+
+    💡 Interesses: Desenvolvimento backend e fundamentos de programação
+
+    🌱 Sempre aberto a colaborações e novos aprendizados
+  **
 ### 📫 Como me encontrar...  
 - LinkedIn: [Seu perfil](https://linkedin.com/in/seuperfil)  
 - Email: rfb3204@gmail.com

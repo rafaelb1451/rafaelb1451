@@ -1,4 +1,5 @@
 👋 Olá! Eu sou Rafael.
+
 🎓 Sobre mim
 
 Sou estudante de Engenharia de Software, apaixonado por tecnologia e desenvolvimento de soluções. Estou em constante aprendizado, explorando diferentes linguagens e boas práticas de programação para me tornar um desenvolvedor completo.

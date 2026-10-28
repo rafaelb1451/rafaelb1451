@@ -11,7 +11,7 @@ Sou estudante de Engenharia de Software, apaixonado por tecnologia e desenvolvim
     💡 Interesses: Desenvolvimento backend e fundamentos de programação
 
     🌱 Sempre aberto a colaborações e novos aprendizados
-  **
+
 ### 📫 Como me encontrar...  
 - LinkedIn: [Seu perfil](https://linkedin.com/in/seuperfil)  
 - Email: rfb3204@gmail.com
